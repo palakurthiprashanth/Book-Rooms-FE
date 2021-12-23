@@ -9,7 +9,7 @@ import BookingScreen from "./screens/BookingScreen";
 import LoginScreen from "./screens/LoginScreen";
 import RegisterScreen from "./screens/RegisterScreen";
 import ProfileScreen from "./screens/ProfileScreen";
-import AdminScreen from "./screens/Adminscreen";
+import AdminScreen from "./screens/AdminScreen";
 import LandingScreen from "./screens/LandingScreen";
 
 import Navbar from './components/Navbar';
